@@ -41,7 +41,8 @@
 ## 3. 用户交互及设计
 
 ### 3.1 流程图
-[流程图](https://github.com/pumennn/museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![流程图](https://github.com/pumennn/museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E5%8D%9A%E7%89%A9%E9%A6%86%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ### 3.2 原型
-[原型](https://github.com/pumennn/museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8E%9F%E5%9E%8B.png)
+
+![原型](https://github.com/pumennn/museum/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8E%9F%E5%9E%8B.png)
